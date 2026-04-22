@@ -15,6 +15,7 @@ def test_numpy():
     print("Subtraction:", a - b)
     print("Multiplication:", a * b)
     print("Division:", a / b)
+    print("Hello World")
     
     # Matrix operations
     mat1 = np.array([[1, 2], [3, 4]])
